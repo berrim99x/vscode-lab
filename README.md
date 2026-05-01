@@ -1,12 +1,5 @@
 # VSCode Lab - Development Labs
 
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/AbdelhakimBerrim/vscode-lab)
-![GitHub last commit](https://img.shields.io/github/last-commit/AbdelhakimBerrim/vscode-lab)
-![GitHub stars](https://img.shields.io/github/stars/AbdelhakimBerrim/vscode-lab?style=social)
-
-</div>
 
 ---
 
